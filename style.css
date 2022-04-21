@@ -1,0 +1,27 @@
+
+.navbar{
+    background-color: #d5c7e4;
+}
+
+.logo{
+    margin-left: 8px;
+    border-radius: 10px
+}
+
+.quem-somos{
+    background-color: aliceblue;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.partners{
+    background-color: azure;
+}
+
+.bgFooter{
+    background-color: plum;
+    
+}
